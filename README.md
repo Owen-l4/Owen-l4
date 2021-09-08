@@ -3,7 +3,7 @@
 
 a weird senior high school guy who 
 
-[![Gmail Badge](https://img.shields.io/badge/-leolee50910@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:b0925138932@gmail.com)](b0925138932@gmail.com)
+<!-- [![Gmail Badge](https://img.shields.io/badge/-leolee50910@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:b0925138932@gmail.com)](b0925138932@gmail.com) -->
 <!--
 **Owen-l4/Owen-l4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
