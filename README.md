@@ -11,7 +11,7 @@ coding is hard 😥
 
 A guy who wants to operate his github and blog
 
-[blog](https://urloser404.github.io)
+view my [blog](https://urloser404.github.io)
 
 
 [![URLoser404's github stats](https://github-readme-stats.vercel.app/api?username=URLoser404&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
