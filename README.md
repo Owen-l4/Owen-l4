@@ -7,4 +7,4 @@ coding is hard 😥
 "人生苦短，我用蟒蛇🐍"
 
 
-![blog](https://urloser404.github.io)
+[blog](https://urloser404.github.io)
