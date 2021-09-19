@@ -1,3 +1,6 @@
+# URLoser404
+
+## about
 TCIVS CSE 💻
 
 coding is hard 😥
@@ -9,3 +12,11 @@ coding is hard 😥
 A guy who wants to operate his github and blog
 
 [blog](https://urloser404.github.io)
+
+## badges
+[![URLoser404's github stats](https://github-readme-stats.vercel.app/api?username=URLoser404&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+[![URLoser404's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=URLoser404&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+[![URLoser404's github streak](https://github-readme-streak-stats.herokuapp.com/?user=URLoser404&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
