@@ -9,8 +9,6 @@ coding is hard 😥
 
 "人生苦短，我用蟒蛇🐍"
 
-A guy who wants to operate his github and blog
-
 view my [blog](https://urloser404.github.io)
 
 
