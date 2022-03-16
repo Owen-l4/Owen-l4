@@ -1,5 +1,3 @@
-<center>
-
 # URLoser404
 
 ## about
@@ -14,9 +12,8 @@ coding is hard 😥
 
 view my [blog](https://urloser404.github.io)
 
+## Stats
+![](https://raw.githubusercontent.com/URLoser404/URLoser404/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/URLoser404/URLoser404/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)    ![](https://raw.githubusercontent.com/URLoser404/URLoser404/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/URLoser404/URLoser404/main/profile-summary-card-output/github_dark/3-stats.svg)    ![](https://raw.githubusercontent.com/URLoser404/URLoser404/main/profile-summary-card-output/github_dark/4-productive-time.svg)
 
-[![URLoser404's github stats](https://github-readme-stats.vercel.app/api?username=URLoser404&theme=blue-green&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![URLoser404's github streak](https://github-readme-streak-stats.herokuapp.com/?user=URLoser404&theme=blue-green&hide_border=true&layout=compact)](https://github.com/DenverCoder1/github-readme-streak-stats)
-  
-</center>
