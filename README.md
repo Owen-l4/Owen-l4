@@ -1,5 +1,5 @@
 
-# Profile
+# It's a boring profile
 - ### [Blog](https://urloser404.github.io) 
 - ### [TcivsCSE](https://github.com/tcivscse)
 - ### [SCAICT](https://github.com/SCAICT)
